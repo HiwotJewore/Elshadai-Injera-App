@@ -29,9 +29,10 @@ Elshadai Injera is a Flutter-based mobile app that makes it easier for Ethiopian
 ---
 
 ## 📸 Screenshots
-(Add screenshots here after running your app on emulator or device)  
+  
 
----
+---<img width="1024" height="1024" alt="Elshadai Injera RevenueCat" src="https://github.com/user-attachments/assets/e360ad8e-e26d-4083-b395-042961db0c90" />
+
 
 ## 📖 Inspiration
 Injera is a unique, thin Ethiopian leavened bread that is difficult to find and prepare abroad. Many skilled home bakers rely on selling it as income, but online ordering tools are limited.  
